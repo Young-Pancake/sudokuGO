@@ -1,4 +1,4 @@
-# SUdokuGo
+# sudokuGo
 
 sudokuGo is a terminal user interface sudoku game, written in Go.  
 You can choose a difficulty and a seed or let the game pick a random seed to generate a puzzle.
