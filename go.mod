@@ -1,4 +1,4 @@
-module sudokuGO
+module github.com/Young-Pancake/sudokuGO
 
 go 1.26.1
 
